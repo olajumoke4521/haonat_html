@@ -1,0 +1,49 @@
+.section1{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 3px;
+    color: green;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+.section2{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 3px;
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+.section3{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 3px;
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+.like {
+    background: #ff9999;
+    padding: 20px;
+  }
+  
+.dislike {
+    background: #3399ff;
+    padding: 20px;
+  }
+  
+  .like li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+  }
+  
+  .dislike li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+  }
